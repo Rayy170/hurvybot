@@ -1,5 +1,5 @@
 {
-    "name": "Aine-Bot",
+    "name": "GMX-Bot",
     "version": "07.06.98",
     "description": "Customizable WhatsApp Bot",
     "depecrated": false,
@@ -29,7 +29,7 @@
     ],
     "homepage": "https://github.com/Aiinne",
     "author": {
-        "name": "Muhammad Ridwan Reynaldy"
+        "name": "raymondGMX"
     },
     "repository": {
         "type": "git",
@@ -40,7 +40,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:adiwajshing/baileys",
+        "@adiwajshing/baileys": "^4.1.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "0.0.81",
         "acrcloud": "^1.4.0",
